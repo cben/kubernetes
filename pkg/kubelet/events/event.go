@@ -48,7 +48,6 @@ const (
 	SuccessfulMountVolume   = "SuccessfulMountVolume"
 	SuccessfulUnMountVolume = "SuccessfulUnMountVolume"
 	HostPortConflict        = "HostPortConflict"
-	NodeSelectorMismatching = "NodeSelectorMismatching"
 	InsufficientFreeCPU     = "InsufficientFreeCPU"
 	InsufficientFreeMemory  = "InsufficientFreeMemory"
 	OutOfDisk               = "OutOfDisk"
